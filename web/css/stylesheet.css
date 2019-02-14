@@ -1,0 +1,166 @@
+.header-block
+{
+    position: fixed;
+    width: 100%;
+    height: 70px;
+    margin-top: -10px;
+    margin-left: -10px;
+    background-color: black;
+}
+
+.logo
+{
+    padding-left: 20px;
+    padding-top: 10px;
+    color: white;   
+    font: 44px Berlin Sans FB ;
+}
+
+.header-list ul
+{
+    list-style: none;
+}
+.main
+{
+    width: 100%;
+    height: auto;
+    border: black 2px solid;
+    margin: auto;
+    max-width: 1400px;
+    background-image: url(../img/content.png);
+}
+.form
+{
+    position: relative;
+    margin-top: 5%;
+    margin-left: 28%;
+    margin-bottom: 5%;
+    border: black solid 1px;
+    height: 300px;
+    width: 500px;
+    min-width: 300px;
+    background-color: gainsboro;
+    text-align: match-parent;
+    filter: drop-shadow(10px 10px 10px black);
+}
+
+.form-one
+{
+    position: relative;
+    margin-top: 50px;
+    margin-left: 65px;
+    margin-bottom: 50px;
+    border: black solid 1px; 
+    border-radius: 20px;
+    height: auto;
+    width: 1200px;
+    min-width: 300px;
+    background-color: gainsboro;
+    text-align: match-parent;
+    filter: drop-shadow(10px 10px 10px black);    
+}
+
+.formheader
+{
+    font-family: Arial Black;
+    font-size: 30px;
+    height: 30px;
+    position: relative;
+    margin-top: 0px;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    border: 2px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: black;
+}
+
+.formsubheader
+{
+    font-family: Arial;
+    font-size: 20px;
+    height: 30px;
+    position: relative;
+    margin-top: 10px;
+    vertical-align: bottom;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.form-content
+{
+    position: relative;
+    height: 200px;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.form ul{
+    list-style: none;
+    text-decoration: none;
+    font-size: 20px;
+    left: 70px;
+    position: relative;
+}
+
+.form ul li
+{
+ margin: 10px;   
+}
+.formfields
+{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px ;
+    border: black groove 1px;
+    text-align: justify;
+}
+
+.formfields1
+{
+    width: 150px;
+    height: 30px;
+    border-radius: 10px ;
+    border: black groove 1px;
+    text-align: justify; 
+}
+
+.buttons
+{
+    background-color: #0069d9;
+    border: black solid 1px;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+    font-family: Arial Black;
+    color: white; 
+}
+.btn-group
+{
+    margin-top: -10px;
+    margin-left: 0px;
+    position: fixed;
+}
+
+
+.container
+{
+    background-color: black;
+}
+
+.tbl
+{
+    position: relative;
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 98%;
+    font-family: Arial;
+    font-size: 18px;
+}
+
+.tblcontent
+{
+    text-align: center;
+}
